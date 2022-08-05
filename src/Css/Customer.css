@@ -1,0 +1,141 @@
+aside {
+    margin-left: 5rem;
+    width: 44%;
+    padding-left: 28px;
+    float: left;
+    background-color: white;
+    margin-top: 2rem;
+    box-shadow: 17px 17px 16px -13px grey;
+    border: 1px solid;
+    border-radius: 43px;
+    height: 73%;
+}
+.pg_h {
+font-size: xx-large;
+    margin-top: 2rem;
+}
+
+.p_img {
+    width: 52px;
+    border-radius: 147%;
+    margin-top: 2rem;
+    margin-left: -1rem;
+    height: 48px;
+    margin-right: 1rem;
+    margin-bottom: 3rem;
+}
+.p_img2 {
+    width: 61px;
+    border-radius: 147%;
+    margin-top: 1rem;
+    height: 48px;
+    margin-left: 0rem;
+}
+.pg_box {
+
+    margin-top: -2rem;
+   
+    margin-bottom: 2rem;
+}
+.heading {
+    font-size: revert;
+    margin-left: 82px;
+    margin-top: -40px;
+
+}
+.pg_a {
+    margin-top: -2rem;
+        margin-bottom: 0rem;
+        font-size: small;
+        margin-right: 0rem;       
+}
+.css-34he1w-MuiRating-decimal{
+    margin-right: -4rem;
+    padding-right: 0rem;
+    cursor: pointer;
+    margin-left: 1rem;
+}
+.c_title{
+    margin-bottom: -1rem;
+    margin-right: 14rem;
+    font-size: x-large;
+    margin-top: 3rem;
+    margin-left: 48rem;
+}
+.c_head{
+    margin-left: 3rem;
+    padding: 1rem;
+}
+.c_area{
+    margin-top: 3rem;
+    padding: 1rem;
+    width: 195px;
+    height: 40px;
+    margin-left: 0rem;
+    border: 1px solid #febe00;
+}
+.c_text{
+    padding: 1rem;
+    margin-left: 1rem;
+    border: 1px solid #febe00;
+    margin-top: 2rem;
+}
+.c_btnn{
+    border-radius: 12px;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    background-color: #38B169;
+    margin-left: 12rem;
+    margin-top: 1rem;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    border: none;
+    color: white;
+    font-weight: 600;
+}
+.pp_con{
+    height: 41rem;
+background-color: #f3fdd9;;
+}
+@media screen and (max-width:600px){
+ aside{
+    width: 77%;
+    height: 80%;
+    margin-bottom: 1rem;
+ }
+ .pg_a{
+    margin-left: -1rem;
+    margin-right: -2rem;
+    padding-right: 2rem;
+    margin-left: -1rem;
+
+ }
+ .c_title{
+    margin-left: 3rem;
+    margin-bottom: 2rem;
+ }
+.c_head{
+    padding-bottom: 1rem;
+    margin-left: 0rem;
+    
+    padding-right: 2rem;
+    padding-left: 5rem;
+}
+.c_area{
+    width: 226px;
+}
+.c_text{
+    margin-top: 0rem;
+    margin-left: 5rem;
+}
+.c_btnn{
+    margin-bottom: 2rem;
+}
+.pp_con{
+   
+background-color: #f3fdd9;;
+}
+
+
+
+}

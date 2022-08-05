@@ -1,0 +1,102 @@
+.f_bg{
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("../images/footer-bg.jpeg");
+    background-position: center;
+    background-size: cover;
+    margin-top: -2rem;
+}
+.f_text{
+    color: white;
+    font-size: inherit;
+    padding: 9rem;
+    margin-left: -5rem;
+    
+}
+.f_info{
+    
+    margin-left: 6rem;
+    color: white;
+    font-size: inherit;
+    margin-top: -6rem;
+    padding-bottom: 7px;
+}
+.f_head{
+    color: #38B169;
+    padding: 8rem;
+    margin-left: 35rem;
+    margin-top: -15rem;
+}
+.ff_head{
+    color: #38B169;
+    padding: 8rem;
+    margin-left: 56rem;
+    margin-top: -25rem;
+}
+.f_cat{
+    color: white;
+    margin-left: 41rem;
+    margin-top: -8rem;
+}
+.f_pol{
+    color: white;
+    margin-left: 63rem;
+    margin-top: -8rem;
+}
+.f_footsub{
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding: 1rem;
+    margin-right: 0rem;
+    margin-left: -3rem;
+    margin-bottom: -3rem;
+    margin-top: -3rem;
+}
+.imgg-fluid{
+    margin-top: 1rem;
+    max-width: 100%;
+    height: auto;
+    margin-right: 1rem;
+}
+.f_div{
+    margin-left: 64rem;
+}
+.f_icon{
+    color: white;
+    display: flex;
+    margin-left: 4rem;
+}
+.f_iconn{
+    margin-left: 3rem;
+    border: 2px solid;
+    margin-top: 2rem;
+    font-size: 2.5rem;
+}
+.f_hr{
+    background: white;
+    
+    width: 94%;
+    margin-top: 6rem;
+    margin-left: 3rem;
+}
+.f_logo{
+    margin-bottom: -1rem;
+    margin-top: -6rem;
+    width: 14%;
+    background-color: #38B169;
+    margin-left: 40rem;
+    border: 2px solid white;
+    
+}
+@media screen and (max-width:600px){
+
+.f_text{
+    padding: 5rem;
+    margin-left: -4rem;
+}
+.f_info{
+    margin-top: -1rem;
+    margin-left: 1rem;
+}
+
+
+}

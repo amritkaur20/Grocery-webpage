@@ -1,0 +1,35 @@
+.c_pic{
+    padding: 17px;
+    margin-top: 3rem;
+    height: 137px;
+    width: 224px;
+    margin-left: 1rem;
+}
+.cc_title{
+    text-align: center;
+    font-size: 34px;
+    font-weight: 800;
+    padding-bottom: 0.5rem;
+    padding-top: 2rem;
+    margin-top: 3rem;
+    
+}
+.c_con{
+    margin-bottom: 4rem;
+    margin-left: 2rem;
+    margin-right: 4rem;
+}
+.c_hr{
+    color: #192e22;
+    margin-left: 42rem;
+    transform: translateX(-50%);
+  padding: 1px;
+    width: 259px;
+    margin-bottom: 1rem;
+    margin-top: 0rem;
+}
+@media screen and (max-width:600px){
+    .c_hr{
+        margin-left: 16rem;
+    }
+}

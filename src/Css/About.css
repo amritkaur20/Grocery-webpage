@@ -1,0 +1,114 @@
+.ab_container {
+    background-color: #f3fdd9;
+}
+
+.ab_pic {
+    width: 44%;
+    margin-top: 5rem;
+    margin-left: 8rem;
+    margin-bottom: 4rem;
+}
+
+.ab_sub {
+    display: flex;
+
+}
+
+section {
+    margin-left: 3rem;
+    margin-top: 9rem;
+}
+
+.ab_h {
+    width: fit-content;
+    font-family: "Dancing Script", cursive;
+    font-size: 20px;
+    border-radius: 3rem;
+    background-color: #38B169;
+    font-weight: 900;
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
+    margin-bottom: 1.5rem;
+
+}
+
+.content_title {
+    font-size: 20px;
+    width: fit-content;
+    padding-bottom: 0.5rem;
+    font-weight: 900;
+    margin-bottom: 1.5rem
+}
+
+hr {
+
+    margin-top: -25px;
+    width: 127px;
+    height: 2px;
+    border-radius: 50%;
+    background: #38B169;
+
+}
+
+p {
+    padding-right: 2rem;
+    margin-bottom: 1.5rem;
+    margin-top: 2rem;
+    margin-right: 8rem;
+    font-family: "Raleway", sans-serif;
+    font-size: large;
+}
+.img-fluid{
+    margin-top: 1rem;
+    max-width: 100%;
+    height: auto;
+    margin-right: 1rem;
+}
+@media screen and (max-width:600px){
+
+    .ab_pic {
+        width: 58%;
+      
+        margin-left: 8rem;
+        height: 19rem;
+    }
+
+    section {
+        margin-bottom: 3rem;
+        margin-left: 1rem;
+        margin-top: 8rem;
+    }
+    .ab_h{
+        padding-right: 1rem;
+     
+        margin-top: 17rem;
+        margin-left: -30rem;
+        font-size: 15px;
+    }
+    .content_title {
+        margin-left: -469px;
+        font-size: 14px;
+    }
+    hr{
+        margin-left: -29rem;
+        width: 90px;
+    }
+    p{
+        
+    margin-left: -467px;
+    font-size: medium;
+    margin-top: 1rem;
+
+    }
+    .img-fluid{
+    
+       margin-top: 0rem;
+       margin-right: 6rem;
+       margin-left: -21rem;
+    }
+
+
+
+}
